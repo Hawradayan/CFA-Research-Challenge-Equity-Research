@@ -9,6 +9,5 @@ The project presents a full equity research analysis of Aluminum Bahrain (ALBH),
 
 ## Contents
 
-* `Research Report` – Detailed equity research report
-* `Presentation` – Investment pitch deck
-
+* `Research Report` – Full research report
+* `Presentation` – Investment presentation
